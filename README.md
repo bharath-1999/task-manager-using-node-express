@@ -13,10 +13,10 @@
 3) Run "node app.js"
 4) You can access the website at http://localhost:3000/
 
-##About Project
+## About Project
 Its a simple task manager app by which users can add list of tasks to do, edit them,remove them when comppleted.
 
-##Future Updates
+## Future Updates
 -Login,Logout functionality
 --Email Notication on pending tasks
 
