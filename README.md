@@ -17,8 +17,8 @@
 Its a simple task manager app by which users can add list of tasks to do, edit them,remove them when comppleted.
 
 ## Future Updates
--Login,Logout functionality
---Email Notication on pending tasks
+1)Login,Logout functionality
+2)Email Notication on pending tasks
 
 
 -----Happy coding-------
